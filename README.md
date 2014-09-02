@@ -12,31 +12,31 @@ Built a cool Aura app? Simply fork this repo and submit a tutorial for that.
 		
 2. Install [Hexo](http://hexo.io/)
 
-``` bash
+	``` bash
 	  $ sudo npm install hexo -g
-```
+	```
 	
 3. Install [Gulp](http://gulpjs.com/)
 	
-``` bash
+	``` bash
 		$ sudo npm install gulp -g
 	
-```
+	```
 	
 4. Clone the repo to your machine and run the server
 
-``` bash
+	``` bash
 		$ git clone https://github.com/YOURREPO/auratutorials-site.git
 		$ cd site
 		$ npm install
-```
+	```
 		
 5. Generate (Generates html files from markdown):
 		
-``` bash
+	``` bash
 		$ gulp
 		$ hexo generate
-```
+	```
 	Note: You can use `hexo generate --watch` to auto generate when files are updated.
 		
 6. Run server:
