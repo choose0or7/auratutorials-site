@@ -10,7 +10,7 @@ Built a cool Aura app? Simply fork this repo and submit a tutorial for that.
 ## Prerequisites
 1.  Fork This Repo
 		
-2. Install [Hexo](http://hexo.io/)
+2. Install [hexo.io](http://hexo.io/)
 
 	``` bash
 	  $ sudo npm install hexo -g
@@ -73,4 +73,8 @@ Imagine want to create a tutorial with a name `MyAppTutorial` and that had two m
 ## Submit a Pull Request
 Once you are done with your tutorial, please send a pull request from your repo.
 
+<br>
+<br>
 
+## Credits
+This site uses [hexo.io](http://hexo.io/) extensively and is forked from [https://github.com/hexojs/site](https://github.com/hexojs/site).
