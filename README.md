@@ -58,7 +58,7 @@ Imagine you had a tutorial's name is `MyTutorial` and it has 2 files `tutorialFi
 		   My Step 1: tutorialFile1.html
 		   My Step 2: tutorialFile2.html
 	```
-	Note2:
+	Notes:
 	1. The above adds` MyTutorial`, `My Step 1` and `My Step 2` to the side bar.
 	2. Use `.html`instead of `.md` in the _config files.
 	3. **Yaml Errors:** `yaml` uses "spaces" extensively to create parent and child relationships. So make sure to use spaces properly. 
@@ -66,7 +66,7 @@ Imagine you had a tutorial's name is `MyTutorial` and it has 2 files `tutorialFi
 	
 3. Open `/source/tutorials/` and create your tutorials files like `tutorialFile1.md` and `tutorialFile2.md` there. 
 4. Refresh browser to see changes.
-5. If you have images, keep them in `/source/images/` folder and access them <img src="/images/myImageFile.png" />/ from your .md files.
+5. If you have **images**, keep them in `/source/images/` folder and access them `<img src="/images/myImageFile.png" />` from your `.md` files.
 
 ## Submit a Pull Request
 Once you are done with your tutorial, please send a pull request from your repo.
