@@ -74,8 +74,4 @@ Imagine want to create a tutorial with a name `MyAppTutorial` and that had two m
 ## Submit a Pull Request
 Once you are done with your tutorial, please send a pull request from your repo.
 
-<br>
-<br>
 
-#### Credits
-This site uses [hexo.io](http://hexo.io/) extensively and is forked from [hexojs/site](https://github.com/hexojs/site).
