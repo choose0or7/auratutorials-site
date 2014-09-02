@@ -1,6 +1,7 @@
-# Hexo Website
+# Aura Tutorials Website
 
-The website for Hexo. You can see the generated files at [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io) repository.
+The website for rajaraodv.github.io/auratutorials. 
+You can see the generated files at [https://github.com/rajaraodv/auratutorials](https://github.com/rajaraodv/auratutorials) repository.
 
 ## Getting started
 
@@ -30,11 +31,11 @@ $ hexo server
 - [Hexo](http://hexo.io/)
 
 	``` bash
-  $ npm install hexo -g
+  $ sudo npm install hexo -g
   ```
 
 - [Gulp](http://gulpjs.com/)
 
 	``` bash
-	$ npm install gulp -g
+	$ sudo npm install gulp -g
 	```
