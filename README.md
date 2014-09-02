@@ -41,20 +41,20 @@ Built a cool Aura app? Simply fork this repo and submit a tutorial for that.
 		
 6. Run server:
 		
-``` bash
+	``` bash
 		$ hexo server
-```
-7. The server runs at: `http://localhost:4000`
+	```
+ 	The server runs at: `http://localhost:4000`
 
 
 ## Add A Tutorial
-Imagine want to create a tutorial with a name `MyTutorial` and that had two main pages ( `tutorialFile1.md` and `tutorialFile2.md`) and they internally used an image (`myImageFile.png`) 
+Imagine want to create a tutorial with a name `MyAppTutorial` and that had two main pages ( `tutorialFile1.md` and `tutorialFile2.md`) and they internally used an image (`myImageFile.png`) 
 
 1. Open `_config.yml`
-2. Add the following at the `doc_sidebar` section.
+2. Add the following at the `doc_sidebar` section (near the bottom).
 
 	```yaml	
-		MyTutorial:
+		MyAppTutorial:
 		   My Step 1: tutorialFile1.html
 		   My Step 2: tutorialFile2.html
 	```
@@ -67,6 +67,8 @@ Imagine want to create a tutorial with a name `MyTutorial` and that had two main
 3. Open `/source/tutorials/` and create your tutorials files like `tutorialFile1.md` and `tutorialFile2.md` there. 
 4. Refresh browser to see changes.
 5. Add the **image** to `/source/images/` folder and access it like so: `<img src="/images/myImageFile.png" />` from your `.md` files.
+
+**NOTE: Please use namespace your files to easily find them. Instead of tutorialFile1.md, use company-myappname-tutorialFile.md**
 
 ## Submit a Pull Request
 Once you are done with your tutorial, please send a pull request from your repo.
