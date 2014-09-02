@@ -1,40 +1,46 @@
 menu:
-  Docs: /docs/
-  API: /api/classes/Hexo.html
-  News: /news/
-  Plugins: https://github.com/tommy351/hexo/wiki/Plugins
-  Themes: https://github.com/tommy351/hexo/wiki/Themes
+  Tutorials: /tutorials/
+  Docs: /tutorials/aura-docs.html
+  Cheat Sheet: /tutorials/aura-cheat-sheet.html
+
 
 doc_sidebar:
-  Getting Started:
-    Overview: index.html
-    Setup: setup.html
-    Configuration: configuration.html
-    Commands: commands.html
-    Migration: migration.html
-  Basic Usage:
-    Writing: writing.html
-    Drafts: drafts.html
-    Generating: generating.html
-    Tag Plugins: tag-plugins.html
-    Server: server.html
-    Deployment: deployment.html
-  Customization:
-    Permalinks: permalinks.html
-    Themes: themes.html
-    Variables: variables.html
-    Pagination: pagination.html
-    Helpers: helpers.html
-    Plugins: plugins.html
-  Advanced:
-    Models: models.html
-    Events: events.html
-  Miscellaneous:
-    Troubleshooting: troubleshooting.html
-    Contributing: contributing.html
+  Intro to Aura:
+    What is Aura: index.html
+    Setup: aura-setup.html
+    In-Org Reference App: aura-in-org-reference.html
+  Hello World App:    
+    Overview: aura-hello-world-overview.html
+    Create The App: aura-hello-world-base-app.html
+    Create The Component: aura-hello-world-creating-a-component.html
+    Running In Salesforce1 Mobile: aura-hello-world-embed-in-s1.html
+  Opportunity Select App:
+    Overview: aura-opp-select-overview.html
+    Connecting to SFDC: aura-opp-Connecting-to-SFDC.html
+    Creating Events: aura-opp-events.html
+    Handling Events: aura-opp-listening-to-events.html
+    Adding Styles: aura-opp-styles.html
+    Running In Salesforce1 Mobile: aura-opp-embed-in-s1.html
+  Static Resources App:
+    Overview: aura-static-resources-overview.html
+    Load Dependent Files: aura-static-resources-load-resources.html
+    Build The App: aura-static-resources-build-the-app.html
+  Expense Tracker App:    
+    Overview: aura-et-overview.html
+    Create An Expense Object: aura-et-expense-object.html
+    Create Expense Tracker App: aura-et-1-create-app.html
+    Create User Input Component: aura-et-2-create-user-input-comp.html
+    Load Data From Apex Model: aura-et-3-create-apex-expense-model.html
+    Create Nested Components: aura-et-4-create-nested-components.html
+    Save Expense To SFDC: aura-et-5-save-expense-to-sfdc.html
+    Make It Interactive: aura-et-6-make-it-interactive.html
+  Resources:
+    Docs: aura-docs.html
+    Cheet Sheet: aura-cheet-sheet.html
+
 
 google_analytics: UA-4910098-10
 fb_admins: 100000247608790
 swiftype_key: DDvzs7LQ9kdKssQNQLcv
-twitter: hexojs
-github: hexojs/hexo
+twitter: rajaraodv
+github: rajaraodv/auratutorials-site

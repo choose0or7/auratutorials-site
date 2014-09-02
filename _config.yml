@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
-subtitle: Hexo is a fast, simple & powerful blog framework powered by Node.js.
-description: Hexo is a fast, simple & powerful blog framework powered by Node.js.
-author: SkyArrow
-email: tommy351@gmail.com
+title: Aura Tutorials
+subtitle: Aura Tutorials - Build Salesforce Aura apps lightning fast!
+description: Aura Tutorials - Build Salesforce Aura apps lightning fast!
+author: Raja Rao DV
+email: rraodv@salesforce.com
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://hexo.io
+url: https://github.com/rajaraodv/auratutorials-site
 root: /
 permalink: news/:year/:month/:day/:title/
 tag_dir: tags
@@ -88,4 +88,4 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/hexojs/hexojs.github.io.git
+  repo: https://github.com/rajaraodv/auratutorials.git

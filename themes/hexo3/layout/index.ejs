@@ -1,17 +1,24 @@
 <div id="banner">
   <div class="outer">
     <div class="inner">
-      <h2 id="banner-title">A fast, simple &amp; powerful blog framework,<br>powered by Node.js.</h2>
-      <div id="banner-getting-started">
-        <span id="banner-getting-started-prefix">$</span>
-        <input id="banner-getting-started-input" type="text" value="npm install hexo -g" readonly>
-        <a href="<%- config.root %>docs" id="banner-getting-started-btn"></a>
+      <h4 id="banner-title">Aura Tutorials - Build Aura Apps Lightning Fast!</h4>
+      <div id="intro-cmd-wrap">
+      <div class="outer">
+    <div class="inner">
+<pre><code>                &lt;aura:application&gt;
+                    &lt;aura:topBarComponent /&gt;
+                    &lt;aura:sidebarComponent /&gt;
+                    &lt;aura:detailsComponent /&gt;
+                &lt;/aura:application&gt;
+</code></pre>
+</div>
+  </div>
       </div>
-      <div id="banner-share">
-        <%- partial('_partial/share') %>
-      </div>
+     <div class="outer">
+    <div class="inner">
+      <div id="intro-btn-wrap"><a id="intro-btn" href="/tutorials/">Get Started</a></div>
+      </div></div>
     </div>
   </div>
-</div>
 
-<%- page.content %>
+  <%- page.content %>

@@ -28,7 +28,7 @@ hexo.extend.helper.register('item_flags', function(data){
 
 hexo.extend.helper.register('page_nav', function(){
   var sidebar = this.theme.doc_sidebar,
-    path = this.path.replace(/^docs\//, ''),
+    path = this.path.replace(/^tutorials\//, ''),
     list = {};
 
   for (var i in sidebar){
