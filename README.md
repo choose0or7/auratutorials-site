@@ -4,6 +4,7 @@
 This is the website for [rajaraodv.github.io/auratutorials](https://rajaraodv.github.io/auratutorials).
 You can see the generated files at [https://github.com/rajaraodv/auratutorials](https://github.com/rajaraodv/auratutorials) repository.
 
+<br>
 # Submit Your Own Aura Tutorial
 Built a cool Aura app? Simply fork this repo and submit a tutorial for that.
 
@@ -77,4 +78,4 @@ Once you are done with your tutorial, please send a pull request from your repo.
 <br>
 
 #### Credits
-This site uses [hexo.io](http://hexo.io/) extensively and is forked from [https://github.com/hexojs/site](https://github.com/hexojs/site).
+This site uses [hexo.io](http://hexo.io/) extensively and is forked from [hexojs/site](https://github.com/hexojs/site).
