@@ -1,49 +1,49 @@
 
-## Aura Tutorials Website
+# Aura Tutorials Website
 
-The website for rajaraodv.github.io/auratutorials. 
+This is the website for [rajaraodv.github.io/auratutorials](https://rajaraodv.github.io/auratutorials).
 You can see the generated files at [https://github.com/rajaraodv/auratutorials](https://github.com/rajaraodv/auratutorials) repository.
 
 # Submit Your Own Aura Tutorial
-You can create your own tutorial and submit. 
+Built a cool Aura app? Simply fork this repo and submit a tutorial for that.
 
 ## Prerequisites
 1.  Fork This Repo
 		
 2. Install [Hexo](http://hexo.io/)
 
-		``` bash
+``` bash
 	  $ sudo npm install hexo -g
-	  ```
+```
 	
 3. Install [Gulp](http://gulpjs.com/)
 	
-		``` bash
+``` bash
 		$ sudo npm install gulp -g
 	
-		```
+```
 	
 4. Clone the repo to your machine and run the server
 
-		``` bash
+``` bash
 		$ git clone https://github.com/YOURREPO/auratutorials-site.git
 		$ cd site
 		$ npm install
-		```
+```
 		
 5. Generate (Generates html files from markdown):
 		
-		``` bash
+``` bash
 		$ gulp
 		$ hexo generate
-		```
+```
 	Note: You can use `hexo generate --watch` to auto generate when files are updated.
 		
 6. Run server:
 		
-		``` bash
+``` bash
 		$ hexo server
-		```
+```
 7. The server runs at: `http://localhost:4000`
 
 
