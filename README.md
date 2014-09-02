@@ -10,22 +10,20 @@ You can create your own tutorial and submit.
 ## Prerequisites
 1.  Fork This Repo
 		
-2. Install Required Tools
-
-- Install [Hexo](http://hexo.io/)
+2. Install [Hexo](http://hexo.io/)
 
 		``` bash
 	  $ sudo npm install hexo -g
 	  ```
 	
-	- Install [Gulp](http://gulpjs.com/)
+3. Install [Gulp](http://gulpjs.com/)
 	
 		``` bash
 		$ sudo npm install gulp -g
 	
 		```
 	
-3. Clone the repo to your machine and run the server
+4. Clone the repo to your machine and run the server
 
 		``` bash
 		$ git clone https://github.com/YOURREPO/auratutorials-site.git
@@ -33,19 +31,20 @@ You can create your own tutorial and submit.
 		$ npm install
 		```
 		
-		Generate (Generates html files from markdown):
+5. Generate (Generates html files from markdown):
 		
 		``` bash
 		$ gulp
 		$ hexo generate
 		```
+	Note: You can use `hexo generate --watch` to auto generate when files are updated.
 		
-		Run server:
+6. Run server:
 		
 		``` bash
 		$ hexo server
 		```
-4. The server runs at: `http://localhost:4000`
+7. The server runs at: `http://localhost:4000`
 
 
 ## Add A Tutorial
