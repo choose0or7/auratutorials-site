@@ -76,5 +76,5 @@ Once you are done with your tutorial, please send a pull request from your repo.
 <br>
 <br>
 
-## Credits
+#### Credits
 This site uses [hexo.io](http://hexo.io/) extensively and is forked from [https://github.com/hexojs/site](https://github.com/hexojs/site).
