@@ -48,7 +48,7 @@ Built a cool Aura app? Simply fork this repo and submit a tutorial for that.
 
 
 ## Add A Tutorial
-Imagine you had a tutorial's name is `MyTutorial` and it has 2 files `tutorialFile1.md` and `tutorialFile2.md`
+Imagine want to create a tutorial with a name `MyTutorial` and that had two main pages ( `tutorialFile1.md` and `tutorialFile2.md`) and they internally used an image (`myImageFile.png`) 
 
 1. Open `_config.yml`
 2. Add the following at the `doc_sidebar` section.
@@ -66,7 +66,7 @@ Imagine you had a tutorial's name is `MyTutorial` and it has 2 files `tutorialFi
 	
 3. Open `/source/tutorials/` and create your tutorials files like `tutorialFile1.md` and `tutorialFile2.md` there. 
 4. Refresh browser to see changes.
-5. If you have **images**, keep them in `/source/images/` folder and access them `<img src="/images/myImageFile.png" />` from your `.md` files.
+5. Add the **image** to `/source/images/` folder and access it like so: `<img src="/images/myImageFile.png" />` from your `.md` files.
 
 ## Submit a Pull Request
 Once you are done with your tutorial, please send a pull request from your repo.
