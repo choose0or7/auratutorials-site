@@ -12,7 +12,7 @@ Aura is a component based UI framework to build mobile and web apps on Salesforc
 3. Helps build better and more modern mobile apps than Visualforce but with the same skillset.
 4. Aura is <b>already battle tested</b> in several apps including [official Salesforce1 mobile app](http://www.salesforce.com/mobile/) and several Salesforce apps. 
 
-<img src="/images/aura-what-is-aura-s1mobileapp.png" alt="Drawing" style="height: 436px;"/>
+<img src="/auratutorials/images/aura-what-is-aura-s1mobileapp.png" alt="Drawing" style="height: 436px;"/>
 
 ## Aura Framework Flavors
 

@@ -8,7 +8,7 @@ One of the nice things about Aura is that you can reuse most of your Apex and Vi
 2. Enter OpportunityListModel for the class name
 3. Click OK to create the class
 
-<img src="/images/aura-opp-create-opp-list-model.png"/>
+<img src="/auratutorials/images/aura-opp-create-opp-list-model.png"/>
 
 ## @auraEnabled annotation
 
@@ -53,7 +53,7 @@ Create a component called `opportunitySelect`. This component will connect to SF
 2. Enter opportunitySelect for the name
 3. Click Submit
 
-<img src="/images/aura-opp-create-opp-list-devconsole-ac.png"/>
+<img src="/auratutorials/images/aura-opp-create-opp-list-devconsole-ac.png"/>
 
 ### Component Markup
 
@@ -97,7 +97,7 @@ Tip: If your function doesn't interact directly with the View, put it in Helper.
 Add a component controller that deals with `init` event from Aura and also handles `onchange` event when a user select an opportunity from the list.
 
 1. Open `opportunitySelect.cmp` and click on CONTROLLER on the side panel. 
-<img src="/images/aura-opp-create-opp-list-open-comp.png"/>
+<img src="/auratutorials/images/aura-opp-create-opp-list-open-comp.png"/>
 2. Copy paste the below code into the controller.
 
 ``` JavaScript
@@ -175,7 +175,7 @@ You can then finally fire the event and if anyone who may be listening to it wil
 
 Create an app called `opportunities.app` and embed this component in it.
 
-<img src="/images/aura-opp-create-opp-list-createApp.png"/>
+<img src="/auratutorials/images/aura-opp-create-opp-list-createApp.png"/>
 
 Add the following code to the app and <b>Change the namespace to your org's namespace</b>
 
@@ -189,4 +189,4 @@ Add the following code to the app and <b>Change the namespace to your org's name
 
 Click on the `Preview` button in the side bar of the Developer console or go to: `<your org>/<namespace>/opportunities.app` in a browser.
 
-<img src="/images/aura-opp-opplist-select-list.png"/>
+<img src="/auratutorials/images/aura-opp-opplist-select-list.png"/>

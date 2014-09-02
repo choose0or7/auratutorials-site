@@ -67,7 +67,7 @@ Imagine want to create a tutorial with a name `MyAppTutorial` and that had two m
 	
 3. Open `/source/tutorials/` and create your tutorials files like `tutorialFile1.md` and `tutorialFile2.md` there. 
 4. Refresh browser to see changes.
-5. Add the **image** to `/source/images/` folder and access it like so: `<img src="/images/myImageFile.png" />` from your `.md` files.
+5. Add the **image** to `/source/images/` folder and access it like so: `<img src="/auratutorials/images/myImageFile.png" />` from your `.md` files.
 
 **NOTE: Please use namespace your files to easily find them. Instead of tutorialFile1.md, use company-myappname-tutorialFile.md**
 

@@ -29,7 +29,7 @@ Creating an Aura tab is similar to creating a Visualforce tab. If your org has A
 1. Navigate to Setup in the browser
 2. Expand Create and select Tabs
 3. Click the New button in the Aura Tabs section
-<img src="/images/hello-world-add-aura-tabs.png"/>
+<img src="/auratutorials/images/hello-world-add-aura-tabs.png"/>
 4. Select `<ns>:helloworld` from the Aura selector
 5. Set the Tab Label to `Hello World`
 6. Set the Tab Name to HelloWorld
@@ -37,7 +37,7 @@ Creating an Aura tab is similar to creating a Visualforce tab. If your org has A
 8. Press the Next button
 9. Press the Save button on the next screen
 
-<img src="/images/hello-world-add-aura-tabs-save.png"/>
+<img src="/auratutorials/images/hello-world-add-aura-tabs-save.png"/>
 
 ## Setup Mobile Navigation
 
@@ -50,11 +50,11 @@ Creating an Aura tab is similar to creating a Visualforce tab. If your org has A
 7. Press the Up button to move it below People
 8. Press the Save button
 
-<img src="/images/hello-world-mobile-navigation.png"/>
+<img src="/auratutorials/images/hello-world-mobile-navigation.png"/>
 
 
 ## View in Salesforce1 Mobile
 
 Salesforce1 mobile app is runs in `https://<your org domain>/one/one.app`. Open Salesforce1  app and click on the "hamburger icon". You should see your "Hello World" app.
 
-<img src="/images/hello-world-in-s1.png"/>
+<img src="/auratutorials/images/hello-world-in-s1.png"/>

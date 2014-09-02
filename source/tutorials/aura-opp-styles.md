@@ -8,7 +8,7 @@ By default components don't come with any CSS styles because the general idea is
 ###  Add Styles
 
 1. Open `opportunityCard.cmp` and click on the `Styles` button in the side panel of the Developer Console.
-	<img src="/images/aura-opp-create-dev-console-create-style.png"/>
+	<img src="/auratutorials/images/aura-opp-create-dev-console-create-style.png"/>
 2. Copy the below CSS classes. To ensure css classes don't clash, that every css class is namespaced with `.THIS`. At run-time `.THIS` will be replaced by a unique class name. 
 
 ``` css
@@ -156,7 +156,7 @@ Let's add styles to opportunitySelect component.
 ### Add Styles
 
 1. Open `opportunitySelect.cmp` and click on the `Styles` button in the side panel of the Developer Console.
-	<img src="/images/aura-opp-create-dev-console-create-style.png"/>
+	<img src="/auratutorials/images/aura-opp-create-dev-console-create-style.png"/>
 2. Copy the below CSS classes. 
 
 ``` css
@@ -235,4 +235,4 @@ Update the markup of opportunitSelect.cmp component to include some CSS classes 
 
 Click on the `Preview` button in the side bar of the Developer console or go to: `<your org>/<namespace>/opportunities.app` in a browser.
 
-<img src="/images/aura-opp-add-styles-final-app.png"/>
+<img src="/auratutorials/images/aura-opp-add-styles-final-app.png"/>

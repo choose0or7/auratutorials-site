@@ -6,4 +6,4 @@ This tutorial shows you how to get started with Aura (using developer console), 
 
 In the end you will see a **native Aura** Hello World app running inside Salesforce1 like below.
 
-<img src="/images/hello-world-in-s1.png"/>
+<img src="/auratutorials/images/hello-world-in-s1.png"/>

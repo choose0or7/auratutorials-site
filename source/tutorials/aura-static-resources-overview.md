@@ -9,9 +9,9 @@ This little tutorial shows you how to load such external CSS and external JavaSc
 
 At the end you will have an Aura app that uses Twitter Bootstrap CSS, and jQuery:
 
-<img src="/images/aura-bootstrap-app-final.png"/>
+<img src="/auratutorials/images/aura-bootstrap-app-final.png"/>
 <br>
 
 Clicking on the buttons shows JQuery triggered dialog box.
 
-<img src="/images/aura-bootstrap-app-final-dlg.png"/>
+<img src="/auratutorials/images/aura-bootstrap-app-final-dlg.png"/>

@@ -13,4 +13,4 @@ For example: `https://gs0.salesforce.com/auradocs/reference.app`
 Note: You can also use this to see if a particular component is supported in your org versus [the open source](https://github.com/forcedotcom/aura) version.
 {% endnote %}
 
-<img src="/images/aura-in-org-reference-app.png"/>
+<img src="/auratutorials/images/aura-in-org-reference-app.png"/>

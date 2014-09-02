@@ -15,7 +15,7 @@ Aura uses namespaces **extensively** for encapsulation. Every component needs to
 6. Click Review My Selections
 7. Click Save
 
-<img src="/images/aura-setup-namespace.png"/>
+<img src="/auratutorials/images/aura-setup-namespace.png"/>
 
 ### Using Namespaces
 
@@ -34,5 +34,5 @@ By default Aura minifies JavaScript and CSS code which makes it impossible to de
 1. Navigate to Setup > Create > Packages
 2. Check `Enable Aura Debug Mode`
 
-<img src="/images/aura-setup-enable-debug.png"/>
+<img src="/auratutorials/images/aura-setup-enable-debug.png"/>
 

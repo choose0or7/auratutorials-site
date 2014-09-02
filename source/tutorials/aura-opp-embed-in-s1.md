@@ -69,10 +69,10 @@ Creating an Aura tab is similar to creating a Visualforce tab. If your org has A
 7. Press the Up button to move it below People
 8. Press the Save button
 
-<img src="/images/hello-world-mobile-navigation.png"/>
+<img src="/auratutorials/images/hello-world-mobile-navigation.png"/>
 
 ## View in Salesforce1 Mobile
 
 Salesforce1 mobile app is runs in `https://<your org domain>/one/one.app`. Open Salesforce1  app and click on the "hamburger icon". You should see your "Opportunities (AotP)" app.
 
-<img src="/images/aura-opp-add-styles-final-app-in-s1.png"/>
+<img src="/auratutorials/images/aura-opp-add-styles-final-app-in-s1.png"/>

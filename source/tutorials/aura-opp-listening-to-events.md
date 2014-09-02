@@ -10,7 +10,7 @@ Create `opportunityController` Apex controller.
 1. Select File > New > Apex Class
 2. Enter OpportunityController for the name
 3. Click Submit	
-	<img src="/images/aura-opp-create-apex-controller.png"/>
+	<img src="/auratutorials/images/aura-opp-create-apex-controller.png"/>
 4. Paste the following code. It has a method `getOpportunity` that returns an Opportunity details for a given `Id`. 
 
 	``` java
@@ -42,7 +42,7 @@ Let's create another component `opportunityCard.cmp`.
 1. Select File > New > Aura Component
 2. Enter opportunityCard for the name
 3. Click Submit
-	<img src="/images/aura-opp-create-oppCardComp.png"/>
+	<img src="/auratutorials/images/aura-opp-create-oppCardComp.png"/>
 4. Add the following code to connect to `opportunityController` Apex controller.
 
 ``` html
@@ -93,4 +93,4 @@ Open our `Opportunities.app` and embed this component `<NAMESPACE:opportunityCar
 
 Click on the "Preview" button in the side panel of the app or open up `https://<yourOrg>/<namespace>/<appName>.app` in a browser.
  
-<img src="/images/aura-opp-both-controller-in-the-app.png"/>
+<img src="/auratutorials/images/aura-opp-both-controller-in-the-app.png"/>

@@ -22,7 +22,7 @@ Create an expense object to store your expense records and data for the app.
 	
 When you finish creating the custom object, your Expense definition detail page should look similar to this.
 
-<img src="/images/aura-et-expense-obj.png"/>
+<img src="/auratutorials/images/aura-et-expense-obj.png"/>
 
 ``` html
 Note "jam" in the screenshot is just a namespace prefix. Your's will be different.

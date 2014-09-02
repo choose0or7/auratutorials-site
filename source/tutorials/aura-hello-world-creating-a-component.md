@@ -18,9 +18,9 @@ Adding markups in components instead of .app makes it more portable. For example
 5. Save
 ```
 
-<img src="/images/aura-first-aura-app-createComponent.png" width="400px"/>
+<img src="/auratutorials/images/aura-first-aura-app-createComponent.png" width="400px"/>
 <br/><br/>
-<img src="/images/hello-world-create-comp.png"/>
+<img src="/auratutorials/images/hello-world-create-comp.png"/>
 <br><br>
 
 ## Embed Component In App
@@ -33,12 +33,12 @@ Open helloworld.app and embed your component in it. <b>Make sure to change the n
 </aura:application>
 ```
 	
-<img src="/images/hello-world-embed-component.png"/>
+<img src="/auratutorials/images/hello-world-embed-component.png"/>
 <br>
 
 ## Test The App
 
 Click on the convenient "Preview" button on the side bar to open up the app.
 
-<img src="/images/hello-world-click-preview-button.png"/>
+<img src="/auratutorials/images/hello-world-click-preview-button.png"/>
 

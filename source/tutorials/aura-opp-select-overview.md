@@ -6,4 +6,4 @@ This tutorial shows how to build an <b>end-to-end Aura app</b> that is composed 
 
 At the end it will look like this:
 
-<img src="/images/aura-opp-list-final-app.png"/>
+<img src="/auratutorials/images/aura-opp-list-final-app.png"/>

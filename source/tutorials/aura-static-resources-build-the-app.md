@@ -130,6 +130,6 @@ Note: If you are listening to `Application level` events, you should guard your 
 2. Click on the button and you should see a modal dialog triggered by jQuery.
 3. Since we are guarding against multiple notifications, both buttons should work normally.
 
-<img src="/images/aura-bootstrap-app-final.png"/>
+<img src="/auratutorials/images/aura-bootstrap-app-final.png"/>
 <br>
-<img src="/images/aura-bootstrap-app-final-dlg.png"/>
+<img src="/auratutorials/images/aura-bootstrap-app-final-dlg.png"/>

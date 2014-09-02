@@ -1,7 +1,7 @@
 menu:
-  Tutorials: /tutorials/
-  Docs: /tutorials/aura-docs.html
-  Cheat Sheet: /tutorials/aura-cheat-sheet.html
+  Tutorials: /auratutorials/tutorials/
+  Docs: /auratutorials/tutorials/aura-docs.html
+  Cheat Sheet: /auratutorials/tutorials/aura-cheat-sheet.html
 
 
 doc_sidebar:
@@ -25,7 +25,7 @@ doc_sidebar:
     Overview: aura-static-resources-overview.html
     Load Dependent Files: aura-static-resources-load-resources.html
     Build The App: aura-static-resources-build-the-app.html
-  Expense Tracker App:    
+  Expense Tracker App:
     Overview: aura-et-overview.html
     Create An Expense Object: aura-et-expense-object.html
     Create Expense Tracker App: aura-et-1-create-app.html

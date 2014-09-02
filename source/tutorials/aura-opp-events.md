@@ -15,7 +15,7 @@ Create an application-level Event `selectOpportunity` that can pass data in `id`
 1. Select File > New > Aura Event
 2. Enter `selectOpportunity` for the event name
 3. Click Submit
-	<img src="/images/aura-opp-create-event.png"/>
+	<img src="/auratutorials/images/aura-opp-create-event.png"/>
 4. Paste the following code.
 	``` html
 	<aura:event type="APPLICATION">
