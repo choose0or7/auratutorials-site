@@ -1,6 +1,6 @@
 title: Expense Tracker App - Expense Object
 ---
-## Expense Object
+## Expense Object 
 
 Create an expense object to store your expense records and data for the app.
 

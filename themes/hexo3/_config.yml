@@ -27,6 +27,7 @@ doc_sidebar:
     Build The App: aura-static-resources-build-the-app.html
   Expense Tracker App:
     Overview: aura-et-overview.html
+    App Map: aura-et-appmap.html
     Create An Expense Object: aura-et-expense-object.html
     Create Expense Tracker App: aura-et-1-create-app.html
     Create User Input Component: aura-et-2-create-user-input-comp.html
@@ -34,10 +35,12 @@ doc_sidebar:
     Create Nested Components: aura-et-4-create-nested-components.html
     Save Expense To SFDC: aura-et-5-save-expense-to-sfdc.html
     Make It Interactive: aura-et-6-make-it-interactive.html
+  Mini Hacks:
+    Temperature Converter: aura-mini-hacks-temp-converter.html
+    Contact Context App: aura-mini-hacks-contacts-context-app.html
   Resources:
     Docs: aura-docs.html
     Cheet Sheet: aura-cheet-sheet.html
-
 
 google_analytics: UA-4910098-10
 fb_admins: 100000247608790
